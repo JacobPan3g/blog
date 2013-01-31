@@ -1,0 +1,12 @@
+pre {
+	background: rgb(0, 0, 0);
+	border: 1px solid rgb(0, 100, 0);
+	color: #B5E853;
+	font-size: 14px;
+	padding: 10px;
+	overflow-x: auto;
+}
+
+pre code comment {
+	color: #63C0F5;
+}

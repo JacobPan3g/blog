@@ -1,0 +1,34 @@
+body {
+	background: url("../images/bkg.png");
+	color: #EAEAEA;
+	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #B5E853;
+}
+
+a {
+	color: #63C0F5;
+}
+
+header {
+	border-bottom: 1px dashed #B5E853;
+	padding-bottom: 20px;
+}
+
+header h1 {
+	font-size: blod;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 600px;
+	margin-top: 40px;
+}
+
+ul li a {
+	color: B5E853;
+	font-size: 20px;
+}
